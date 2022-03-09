@@ -1,0 +1,10 @@
+.create {
+  max-width: 70%;
+  margin: 50px auto;
+  padding: 50px;
+  background-color: rgba(68, 31, 31, 0.596);
+  border-radius: 6px;
+}
+.create .createBtn {
+  margin: 0 10px;
+}

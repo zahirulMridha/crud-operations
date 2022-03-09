@@ -1,0 +1,8 @@
+.read {
+  background-color: rgb(206, 103, 163); 
+  max-width: 40%;
+  margin:150px auto;
+  padding: 50px;
+  font-size: 20px;
+  border-radius: 6px;
+}

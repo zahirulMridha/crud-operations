@@ -1,0 +1,11 @@
+.home {
+  max-width: 70%;
+  margin: 50px auto;
+}
+.home h2 {
+  color: rgb(36, 29, 172);
+  margin-bottom: 40px;
+}
+.home Button {
+  margin: 0 8px;
+}

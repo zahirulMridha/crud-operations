@@ -1,9 +1,9 @@
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
-import Home from "../src/component/home";
+import Home from "./component/home/home";
 import Read from "../src/component/read/read"
 import "./App.css";
 import { ContextProvider } from "./component/context/useContext";
-import Create from "./component/create";
+import Create from "./component/create/create";
 import Delete from "./component/delete/delete";
 import Edit from "./component/edit/edit";
 function App() {
